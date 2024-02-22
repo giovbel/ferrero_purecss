@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "purecss": "^3.0.0"
+  },
+  "devDependencies": {
+    "grunt-pure-grids": "^2.0.0"
+  }
+}
